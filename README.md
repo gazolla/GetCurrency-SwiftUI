@@ -1,7 +1,7 @@
 # GetCurrency
 List all currencies available in NSLocale programmatically using swiftUI
 
-<img src="https://raw.githubusercontent.com/gazolla/GetCurrency/master/ScreenShot.png" width="220">
+<img src="https://raw.githubusercontent.com/gazolla/GetCurrency/master/ScreenShot1.png" width="220">
 
 ### Contact
 
