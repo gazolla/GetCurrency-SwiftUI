@@ -19,6 +19,7 @@
 		C38C72DB2849711D00FEC424 /* Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38C72DA2849711D00FEC424 /* Currency.swift */; };
 		C38C72DD2849719300FEC424 /* CurrencyDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38C72DC2849719200FEC424 /* CurrencyDataService.swift */; };
 		C38C72DF284E481700FEC424 /* CurrencyViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38C72DE284E481700FEC424 /* CurrencyViewModel.swift */; };
+		C38CF1ED28727EFB006D0FE7 /* ScreenShot.png in Resources */ = {isa = PBXBuildFile; fileRef = C38CF1EC28727EFB006D0FE7 /* ScreenShot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		C38C72DA2849711D00FEC424 /* Currency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency.swift; sourceTree = "<group>"; };
 		C38C72DC2849719200FEC424 /* CurrencyDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyDataService.swift; sourceTree = "<group>"; };
 		C38C72DE284E481700FEC424 /* CurrencyViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyViewModel.swift; sourceTree = "<group>"; };
+		C38CF1EC28727EFB006D0FE7 /* ScreenShot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				C3634BBF2850D85100AE1C00 /* README.md */,
+				C38CF1EC28727EFB006D0FE7 /* ScreenShot.png */,
 				C38C72AD28496FC200FEC424 /* GetCurrency-SwiftUI */,
 				C38C72BE28496FC500FEC424 /* GetCurrency-SwiftUITests */,
 				C38C72C828496FC500FEC424 /* GetCurrency-SwiftUIUITests */,
@@ -248,6 +251,7 @@
 			files = (
 				C38C72D9284970DF00FEC424 /* Flags in Resources */,
 				C38C72B628496FC500FEC424 /* Preview Assets.xcassets in Resources */,
+				C38CF1ED28727EFB006D0FE7 /* ScreenShot.png in Resources */,
 				C3634BC02850D85100AE1C00 /* README.md in Resources */,
 				C38C72B328496FC500FEC424 /* Assets.xcassets in Resources */,
 			);
